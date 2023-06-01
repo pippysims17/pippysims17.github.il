@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+* {
+    font: 400 14px 'Roboto';
+}
+footer {
+    color: #64175e;
+}
+
+h1 {
+    color: #a484aa;
+    font-size: 3rem;
+}
+
+header {
+    border-bottom: 1px solid rgb(249, 249, 252);
+}
+
+nav {
+    background-color: #eee;
+}
+    nav a {
+        color: #cf94ca;
+        font-weight: 700;
+        text-decoration: none;
+    }
+
+ul {
+    list-style-type: none;
+}
+
+h2 {
+    color: #af78d4;
+}
+
+h3 {
+    color: #af78d4;
+}
+
+section {
+    color: #64175e;
+}
+
+li {
+    color: #64175e;
+}
